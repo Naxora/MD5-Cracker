@@ -1,5 +1,5 @@
 #!/usr/bin/python 
-# Secvencya
+# Author Naxora <https://github.com/Naxora>
 
 import hashlib
 import optparse	
